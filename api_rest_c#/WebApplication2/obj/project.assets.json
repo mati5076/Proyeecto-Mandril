@@ -172,11 +172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\especiemandril\\especiemandril.csproj": {}
+    "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\especiemandril\\especiemandril.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\especiemandril\\especiemandril.csproj": {
+    "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\especiemandril\\especiemandril.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\especiemandril\\especiemandril.csproj",
+        "projectUniqueName": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\especiemandril\\especiemandril.csproj",
         "projectName": "especiemandril",
-        "projectPath": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\especiemandril\\especiemandril.csproj",
+        "projectPath": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\especiemandril\\especiemandril.csproj",
         "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monte\\OneDrive\\Desktop\\api_rest_c#\\especiemandril\\obj\\",
+        "outputPath": "C:\\Users\\monte\\OneDrive\\Documentos\\GitHub\\Proyeecto-Mandril\\api_rest_c#\\especiemandril\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"
