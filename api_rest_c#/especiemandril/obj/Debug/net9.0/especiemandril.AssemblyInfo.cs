@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("especiemandril")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37c2bb1c27ecdf26bb3ec6de523c750fa2a835c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6a1b40bd3508434c89b5d52c74b0ec1f51750e")]
 [assembly: System.Reflection.AssemblyProductAttribute("especiemandril")]
 [assembly: System.Reflection.AssemblyTitleAttribute("especiemandril")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
