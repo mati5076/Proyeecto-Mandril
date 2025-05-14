@@ -3,8 +3,6 @@ using especiemandril.models;
 using especiemandril.patron_repository;
 using Npgsql.EntityFrameworkCore.PostgreSQL;
 using Microsoft.EntityFrameworkCore;
-using especieEspecie.patron_repository;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +13,7 @@ builder.Services.AddOpenApi();
 
 
 var conectionString = builder.Configuration.GetConnectionString("PostgreSQLConnection");
-builder.Services.AddDbContext<Dbcontext>(
+builder.Services.AddDbContext<_Dbcontext>(
     options => options.UseNpgsql(conectionString));
 
 
