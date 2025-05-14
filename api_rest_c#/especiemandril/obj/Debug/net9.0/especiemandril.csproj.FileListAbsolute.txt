@@ -163,3 +163,6 @@ C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiem
 C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\monte\OneDrive\Documentos\GitHub\Proyeecto-Mandril\api_rest_c#\especiemandril\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
