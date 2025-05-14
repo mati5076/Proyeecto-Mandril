@@ -7,16 +7,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace especiemandril.Dot
 {
-    public class Dbcontext : DbContext
+    public class _Dbcontext : DbContext
     {
-        public Dbcontext(DbContextOptions<Dbcontext> options) 
+        public _Dbcontext(DbContextOptions<_Dbcontext> options) 
         : base (options)
         {}
         public DbSet <Especie> Especie {get ; set; }
         
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-        }
     }
 }
