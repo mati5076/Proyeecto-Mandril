@@ -14,9 +14,9 @@ Para el Get por Id seria /api/Mandrill/1 (aqui listarias solo el primer Id)
 
 
 Endpoints para el microservicio de Especie
-Para el Post seria /api/Mandrill 
-Para el Get seria /api/Mandrill/
-Para el Get por Id seria /api/Mandrill/1 (aqui listarias solo el primer Id) 
+Para el Post seria /api/Especie
+Para el Get seria /api/Especie/
+Para el Get por Id seria /api/Especie/1 (aqui listarias solo el primer Id) 
 
 uso de Yarp para poder usarlo se debe tener el microservicio que tiene el yarp y el que quieres que se comunique por ejemplo 
 microservicio de especiemandril y webaplication2 ese es el que tiene el yarp , entonces para poder hacer la comunicacion se debe
